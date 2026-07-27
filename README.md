@@ -1,2 +1,3 @@
-# python-immersive-academy
-Test repo file for github learning
+# Python Immersive Academy
+
+Author: Cyrus G
